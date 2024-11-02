@@ -1,5 +1,5 @@
 === All 404 Redirect to Homepage ===
-Contributors: wp-buy, osamaesh
+Contributors: wp-buy, osamaesh, adam1318
 Tags: 404 error, redirection, seo redirect, broken images, redirection
 Requires at least: 4.5
 License: GPLv2 or later
